@@ -1,0 +1,19 @@
+.main_class {
+  background-color: #d8bfd8;
+  font-family: 'Veranda', 'DejaVu Sans', 'sans-serif';
+}
+
+.second_class {
+  font-size: 24px;
+}
+
+#first_id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#second_id {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
